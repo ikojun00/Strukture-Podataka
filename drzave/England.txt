@@ -1,0 +1,5 @@
+London 7172000
+Birmingham 977000
+Leeds 715000
+Liverpool 439000
+Manchester 393000

@@ -1,0 +1,4 @@
+Stuttgart 10879618
+Berlin 3520031
+Dresden 4084851
+Hamburg 1787408

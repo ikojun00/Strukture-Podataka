@@ -1,0 +1,3 @@
+Glasgow 580690
+Edinburgh 477660
+Aberdeen 202370 
